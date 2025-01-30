@@ -106,3 +106,6 @@ Each notebook can be run independently by executing the cells in order.
 
 ## Conclusion
 These notebooks provide standalone analyses for various fashion brands. Each analysis offers unique insights into customer reviews and feedback for the specific brand, helping identify areas for potential improvement or marketing focus.
+
+## Team Members : Chhaya Tundwal, Tirth Patel, Tomas Mujica
+
